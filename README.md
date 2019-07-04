@@ -4,7 +4,7 @@ I was tired to get more than 100 MB of Linux modules by using the [`bcm2709`](ht
 
 Result:
 
-- Kernal: 2.4 MB
+- Kernel: 2.4 MB
 - Rootfs: 3.7 MB (651 kB for the kernel modules)
 
 ## What do I have for that amount of bytes?
